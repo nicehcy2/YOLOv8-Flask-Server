@@ -1,4 +1,14 @@
 *.jpg
+*.jpeg
 *.png
 *.mp4
 *test.py
+
+# 데이터셋
+raw_data/
+dataset/
+*.txt
+*.yaml
+*.yml
+
+*.pth
